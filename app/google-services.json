@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "835546796083",
+    "firebase_url": "https://bietkinlik-3d8ac.firebaseio.com",
+    "project_id": "bietkinlik-3d8ac",
+    "storage_bucket": "bietkinlik-3d8ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835546796083:android:aea69c8054210fbff91346",
+        "android_client_info": {
+          "package_name": "com.example.bietkinlik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835546796083-4pvr27tq7h48butrrfeqchafhink64st.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bietkinlik",
+            "certificate_hash": "c10c0f944c534014755596b0c12e5595438467db"
+          }
+        },
+        {
+          "client_id": "835546796083-g00rsp8mgvl6kdthshu3qinvuac39nj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bietkinlik",
+            "certificate_hash": "0925154346d1678c20d8c6667028267aa1951a32"
+          }
+        },
+        {
+          "client_id": "835546796083-1c6l5isipmmf0780uv502ec1d9umrt2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTBj8eYmxQVjLKKIQNq2cpqP7ekpP2eec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835546796083-1c6l5isipmmf0780uv502ec1d9umrt2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

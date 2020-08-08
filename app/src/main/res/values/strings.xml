@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">bietkinlik</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map_key" translatable="false">AIzaSyBlX4vs3u2XcDGJbX9TO0KI70Ba6Yj5ju8</string>
+</resources>

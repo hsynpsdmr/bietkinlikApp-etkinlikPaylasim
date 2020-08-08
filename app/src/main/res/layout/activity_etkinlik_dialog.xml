@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+
+<EditText
+
+    android:hint="Etkinlik Yazınız"
+    android:id="@+id/Etkinlik"
+    android:layout_width="match_parent"
+    android:layout_height="130dp"
+    android:textSize="15dp"
+    android:layout_marginStart="30dp"
+    android:layout_marginEnd="30dp"
+    android:textColor="@android:color/holo_blue_dark"
+    android:textColorHint="@android:color/holo_green_dark"
+
+
+/>
+    <EditText
+
+        android:hint="Etkinlik Ne Zaman?"
+        android:id="@+id/EtkinlikZamani"
+        android:layout_marginTop="130dp"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:textSize="15dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textColorHint="@android:color/holo_green_dark" />
+
+</RelativeLayout>
